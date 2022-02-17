@@ -1,4 +1,4 @@
-# Marvel filek
+# Marvel filmek
 A mellékelt fájl (movies.csv) a 2008 és 2019 között megjelent Marvel filmek listáját tartalmazza.
 
 Minden filmről nyilván tartjuk a címét, a megjelenés idejét, a bevételét és a produkciós költségét.
